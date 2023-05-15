@@ -1,0 +1,20 @@
+
+.part1{
+    align-items: flex;
+}
+
+.h2-2{
+    background-color: grey;
+}
+
+.h3-1{
+    font-size: 15px;
+}
+
+.h1{
+    justify-content: center;
+}
+
+.card{
+    justify-content: flex;
+}
